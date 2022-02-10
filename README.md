@@ -1,4 +1,4 @@
-# UIUC_CS357_22SP
+# UIUC-CS357-22SP
 
 Homework Format
 
